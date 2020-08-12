@@ -18,5 +18,5 @@
 <br />
 ---
 
-[Sh0uryu's github status](https://github-readme-stats.vercel.app/api?username=sh0uryu&hide=stars,contribs&show_icons=true&theme=buefy)
+https://github-readme-stats.vercel.app/api?username=sh0uryu&hide=stars,contribs&show_icons=true&theme=buefy
 
