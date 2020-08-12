@@ -1,5 +1,4 @@
-##  :space_invader: Hello world! :space_invader:
-
+<div align="center"> ##  :space_invader: Hello world! :space_invader: </div>
 ### My name is Cândido Ferreira and welcome to my GitHub profile
 
 ### Here's a new code lover which knows the sky is not the limit, and everytime is time to grow :skull:
@@ -21,5 +20,5 @@
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=sh0uryu&hide=stars,contribs&show_icons=true&theme=buefy" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh0uryu&layout=compact&theme=buefy" />
+<img height="148.5" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh0uryu&layout=compact&theme=buefy" />
 </div>
