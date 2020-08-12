@@ -1,4 +1,4 @@
-<div style="text-align: center"> ##  :space_invader: Hello world! :space_invader: </div>
+<div align="center"> ##  :space_invader: Hello world! :space_invader: </div>
 
 ### My name is Cândido Ferreira and welcome to my GitHub profile
 
@@ -20,6 +20,6 @@
 ---
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sh0uryu&hide=stars,contribs&show_icons=true&line_height=27&theme=buefy" />
+<img src="https://github-readme-stats.vercel.app/api?username=sh0uryu&hide=stars,contribs&show_icons=true&layout=compact&theme=buefy" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh0uryu&layout=compact&theme=buefy" />
 </div>
