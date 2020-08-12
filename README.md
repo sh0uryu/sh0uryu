@@ -1,9 +1,4 @@
-<<<<<<< HEAD
 <div align="center"> ##  :space_invader: Hello world! :space_invader: </div>
-=======
-<div style="text-align: center"> ##  :space_invader: Hello world! :space_invader: </div>
-
->>>>>>> ac5cf3088f0ef0dce951b762ccfc71a0e8f9499e
 ### My name is Cândido Ferreira and welcome to my GitHub profile
 
 ### Here's a new code lover which knows the sky is not the limit, and everytime is time to grow :skull:
@@ -24,10 +19,6 @@
 ---
 
 <div align="center">
-<<<<<<< HEAD
-<img src="https://github-readme-stats.vercel.app/api?username=sh0uryu&hide=stars,contribs&show_icons=true&line_height=27&theme=buefy" />
-=======
-<img height="70%" src="https://github-readme-stats.vercel.app/api?username=sh0uryu&hide=stars,contribs&show_icons=true&theme=buefy" />
->>>>>>> ac5cf3088f0ef0dce951b762ccfc71a0e8f9499e
+<img src="https://github-readme-stats.vercel.app/api?username=sh0uryu&hide=stars,contribs&show_icons=true&layout=compact&theme=buefy" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh0uryu&layout=compact&theme=buefy" />
 </div>
