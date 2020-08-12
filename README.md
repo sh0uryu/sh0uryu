@@ -1,4 +1,8 @@
 <div align="center"> ##  :space_invader: Hello world! :space_invader: </div>
+<<<<<<< HEAD
+=======
+
+>>>>>>> 6941c760e1407a31867477e66ef6650ad565f8f4
 ### My name is Cândido Ferreira and welcome to my GitHub profile
 
 ### Here's a new code lover which knows the sky is not the limit, and everytime is time to grow :skull:
