@@ -4,7 +4,7 @@
 
 ### Here's a new code lover which knows the sky is not the limit, and everytime is time to grow :skull:
 - I'm a newbie developer, so please be kind to help me evolve.
-- I'm not an open social network user, but you can send me an email if you want to talk to me privately.
+- Want to talk to me? send me an e-mail.
 
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
