@@ -20,6 +20,6 @@
 ---
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sh0uryu&hide=stars,contribs&show_icons=true&layout=compact&theme=buefy" />
+<img src="https://github-readme-stats.vercel.app/api?username=sh0uryu&hide=stars&show_icons=true&layout=compact&theme=buefy" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh0uryu&layout=compact&theme=buefy" />
 </div>
