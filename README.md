@@ -2,18 +2,23 @@
 
 ### Welcome to my GitHub profile, my name is *Cândido Ferreira* 
 
-### Here's a new code lover which knows the sky is not the limit, and everytime is time to grow :skull:
-- I'm a newbie developer, so please be kind to help me evolve.
+### Here's a code lover which knows the sky is not the limit, and everytime is time to grow :skull:
+- Evolving a little bit every day.
+- I'm a new developer, so be kind.
 - Want to talk to me? send me an email.
 
 ### Languages and Tools:
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/sh0uryu/sh0uryu/master/html5.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/sh0uryu/sh0uryu/master/css3.png" />
+<img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/sh0uryu/sh0uryu/master/bootstrap.png" />
+<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/sh0uryu/sh0uryu/master/sass.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/sh0uryu/sh0uryu/master/javascript.png" />
+<img align="left" alt="Jquery" width="26px" src="https://raw.githubusercontent.com/sh0uryu/sh0uryu/master/JQuery.png" />
+<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/sh0uryu/sh0uryu/master/php.png" />
+<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/sh0uryu/sh0uryu/master/SQL.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/sh0uryu/sh0uryu/master/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/sh0uryu/sh0uryu/master/github.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/sh0uryu/sh0uryu/master/vscode.png" />
 <br />
 
 ---
